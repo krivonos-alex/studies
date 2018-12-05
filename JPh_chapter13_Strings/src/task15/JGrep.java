@@ -1,9 +1,9 @@
 package task15;
 
-import java.io.File;
-import java.io.IOException;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
+
+/*Program arguments: "/home/alex/Documents/studies/JPh_chapter13_Strings/src/task15/JGrep.java" "\b[Ssct]\w+" "CASE_INSENSITIVE"*/
 
 public class JGrep {
     public static void main(String[] args) {
